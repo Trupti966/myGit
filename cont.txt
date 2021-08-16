@@ -1,1 +1,2 @@
 This is my vim learning
+Modified the text for the git commit
